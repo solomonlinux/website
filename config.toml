@@ -1,4 +1,4 @@
-baseURL = "https://kubernetes.io"
+baseURL = "https://solomonlinux.github.io"
 title = "Kubernetes"
 
 defaultContentLanguage = "en"
